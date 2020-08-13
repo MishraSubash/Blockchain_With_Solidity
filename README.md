@@ -3,7 +3,7 @@
 ## Test Network: Kovan
 
 ## Motivations: 
-### This smart contract builds in solidity splits payment of employees equally and pays them in Ethereum. It provides a secure, reliable and fast transaction burden free on payroll and lengthy banking process. 
+   ### This smart contract builds in solidity splits payment of employees equally and pays them in Ethereum. It provides a secure, reliable and fast transaction burden    free on payroll and lengthy banking process. 
 
 ## Instructions: 
     * Step 1: Open Kovan Test Networj in metamask 
