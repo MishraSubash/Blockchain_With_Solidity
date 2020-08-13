@@ -12,3 +12,10 @@
     * Step 4: Enter employess digital address 
     * Step 5: Deploy contract 
 
+## Screenshots 
+
+## Mastercode Images
+![](https://github.com/MishraSubash/Blockchain_With_Solidity/blob/master/AssociateProfitSplitter-Deploy.png)
+
+## Metamask account 
+![](https://github.com/MishraSubash/Blockchain_With_Solidity/blob/master/metamask%20account.png)
